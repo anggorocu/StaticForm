@@ -2,6 +2,6 @@
   "title": "Static Form",
   "description": "Static Form is form builder using JAMStack. Leveraging Netlify CMS, Eleventy and Tailwind CSS",
   "image": "/img/StaticFormDark.png",
-  "url": "https://staticform21.netlify.app",
+  "url": "https://staticform17.netlify.app",
   "favicon": "/img/StaticFormDark.png"
 }
